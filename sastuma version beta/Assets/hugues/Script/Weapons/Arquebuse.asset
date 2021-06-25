@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4639b30fc3c3d7e4e92e8ea5ba26bba6, type: 3}
+  m_Name: Arquebuse
+  m_EditorClassIdentifier: 
+  name: Arquebuse
+  damage: 40
+  range: 50
+  timeForShoot: 2
+  balle: 3
+  graphics: {fileID: 6068155543093598269, guid: 6bbb654843cc74d6ea6f2635a668a2b9,
+    type: 3}
